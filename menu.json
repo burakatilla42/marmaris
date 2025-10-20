@@ -1,13 +1,13 @@
 {
   "items": [
     {
-      "name": "Islak Hamburger",
-      "price": 179,
+      "name": "Islak Hamburger MENÜ",
+      "price": 679,
       "img": "islak_hamburger.jpg",
       "desc": "Özel soslu ıslak hamburger"
     },
     {
-      "name": "Patates",
+      "name": "Patates KIZARMASI",
       "price": 109,
       "img": "patates.jpg",
       "desc": "Kızarmış patates"
